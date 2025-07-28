@@ -55,7 +55,7 @@ O segundo parâmetro deve ser maior que o primeiro.
 ## 🛠️ Tecnologias utilizadas
 
 - Java 21+
-- IntelliJ IDEA (ou outra IDE compatível)
+- IntelliJ IDEA
 - Terminal/Console para entrada de dados
 
 ---
